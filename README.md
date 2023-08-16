@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @misk3
+- 👋 Hi, I’m Marko Miškeljin
 - 👀 I’m interested in Node.js and React.js !
